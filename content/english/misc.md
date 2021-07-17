@@ -28,7 +28,7 @@ author = "Shachi"
      Shirley Jackson [(The New Yorker)](https://www.newyorker.com/magazine/2016/10/17/the-haunted-mind-of-shirley-jackson) <br>
 
 3. Movies/TV<br>
- Chungking Express: [Darren's Review](https://letterboxd.com/darrencb/film/chungking-express/3/), Paterson: [It is so good, I couldn’t stop myself from finding metaphors in its enticing images](https://straightfromamovie.com/paterson-movie-review/), Masaan: [Raamu's Review](http://watchout.iitr.ac.in/2020/04/masaan-a-bubble-of-infinite-radius), Bloodline: Sold at the [theme song](https://www.youtube.com/watch?v=uYvrhP8EZi8) 
+ Chungking Express: [Darren's Review](https://letterboxd.com/darrencb/film/chungking-express/3/), Paterson: [It is so good, I couldn’t stop myself from finding metaphors in its enticing images](https://straightfromamovie.com/paterson-movie-review/),<!-- Masaan: [Raamu's Review](http://watchout.iitr.ac.in/2020/04/masaan-a-bubble-of-infinite-radius) -->, Bloodline: Sold at the [theme song](https://www.youtube.com/watch?v=uYvrhP8EZi8) 
 
 
 4. Everthing else<br>

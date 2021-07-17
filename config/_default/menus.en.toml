@@ -1,0 +1,25 @@
+  [[main]]
+  name = "About Me"
+  weight = 200
+  identifier = "home"
+  url = "/"
+
+  [[main]]
+  name = "Research"
+  identifier = "about"
+  weight = 300
+  url = "/research/"
+
+  [[main]]
+  name = "Poems"
+  weight = 400
+  identifier = "poetry"
+  url = "/poetry/"
+
+  [[main]]
+  name = "Misc"
+  weight = 500
+  identifier = "contact"
+  url = "/misc/"
+
+  

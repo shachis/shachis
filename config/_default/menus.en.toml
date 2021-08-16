@@ -6,20 +6,26 @@
 
   [[main]]
   name = "Research"
-  identifier = "about"
+  identifier = "research"
   weight = 300
   url = "/research/"
 
   [[main]]
-  name = "Poems"
+  name = "Poetry"
   weight = 400
   identifier = "poetry"
   url = "/poetry/"
 
   [[main]]
+  name = "Science"
+  weight = 500
+  identifier = "science"
+  url = "/science/"
+
+  [[main]]
   name = "Misc"
   weight = 500
-  identifier = "contact"
+  identifier = "misc"
   url = "/misc/"
 
   

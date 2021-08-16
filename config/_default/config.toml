@@ -1,7 +1,7 @@
-baseURL = "https://shachisingh.com"
+baseURL = "https://shachis.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Shachi"
+title = "Shachi's page"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true

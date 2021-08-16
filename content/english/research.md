@@ -1,9 +1,10 @@
 +++
 title = ""
 description = "Projects"
-aliases = ["about-us", "about-hugo", "contact"]
+aliases = ["research"]
 author = "Shachi"
 +++
+Areas of Interest: CAD/CAM and Finite Element Methods; Granular Mechanics;
 
 1) **Discrete Finite Element Analysis of behaviour of Advanced Ceramics** <br>
 *Guide: Prof James Hogan | [Centre for Design of Advanced Materials](https://sites.ualberta.ca/~jdhogan/index.html), University of Alberta <br> 
